@@ -1,6 +1,6 @@
 # Pyjokes API
 
-![Pyjokes Logo](images/pyjokes.png)
+[![Pyjokes Logo](images/pyjokes.png)](https://github.com/pyjokes/pyjokes)
 
 This is a simple Flask application that provides a random joke through an API using the Pyjokes library. The application includes routes for documentation and fetching a joke, with proper error handling.
 
