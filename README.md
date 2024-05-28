@@ -88,6 +88,6 @@ This is a simple Flask application that provides a random joke through an API us
 - **Random Joke** (`GET /joke`):
   ```json
   {
-      "joke": "Why do programmers prefer dark mode?"
+      "joke": "Ubuntu users are apt to get this joke."
   }
   ```
